@@ -4,6 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
+Figma -  https://www.figma.com/design/5WKjBnTvAKTraWTRqsjK02/TechTaste-%7C-Imers%C3%A3o?node-id=7-47&p=f
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
